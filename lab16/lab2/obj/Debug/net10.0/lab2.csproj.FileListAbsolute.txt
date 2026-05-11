@@ -1,0 +1,14 @@
+D:\Archive\Studying\OOP\lab2\lab2\bin\Debug\net10.0\lab2.exe
+D:\Archive\Studying\OOP\lab2\lab2\bin\Debug\net10.0\lab2.deps.json
+D:\Archive\Studying\OOP\lab2\lab2\bin\Debug\net10.0\lab2.runtimeconfig.json
+D:\Archive\Studying\OOP\lab2\lab2\bin\Debug\net10.0\lab2.dll
+D:\Archive\Studying\OOP\lab2\lab2\bin\Debug\net10.0\lab2.pdb
+D:\Archive\Studying\OOP\lab2\lab2\obj\Debug\net10.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archive\Studying\OOP\lab2\lab2\obj\Debug\net10.0\lab2.AssemblyInfoInputs.cache
+D:\Archive\Studying\OOP\lab2\lab2\obj\Debug\net10.0\lab2.AssemblyInfo.cs
+D:\Archive\Studying\OOP\lab2\lab2\obj\Debug\net10.0\lab2.csproj.CoreCompileInputs.cache
+D:\Archive\Studying\OOP\lab2\lab2\obj\Debug\net10.0\lab2.dll
+D:\Archive\Studying\OOP\lab2\lab2\obj\Debug\net10.0\refint\lab2.dll
+D:\Archive\Studying\OOP\lab2\lab2\obj\Debug\net10.0\lab2.pdb
+D:\Archive\Studying\OOP\lab2\lab2\obj\Debug\net10.0\lab2.genruntimeconfig.cache
+D:\Archive\Studying\OOP\lab2\lab2\obj\Debug\net10.0\ref\lab2.dll
