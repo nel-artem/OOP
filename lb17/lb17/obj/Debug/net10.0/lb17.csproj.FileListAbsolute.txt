@@ -1,0 +1,14 @@
+D:\Archive\Studying\OOP\lb17\lb17\bin\Debug\net10.0\lb17.exe
+D:\Archive\Studying\OOP\lb17\lb17\bin\Debug\net10.0\lb17.deps.json
+D:\Archive\Studying\OOP\lb17\lb17\bin\Debug\net10.0\lb17.runtimeconfig.json
+D:\Archive\Studying\OOP\lb17\lb17\bin\Debug\net10.0\lb17.dll
+D:\Archive\Studying\OOP\lb17\lb17\bin\Debug\net10.0\lb17.pdb
+D:\Archive\Studying\OOP\lb17\lb17\obj\Debug\net10.0\lb17.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archive\Studying\OOP\lb17\lb17\obj\Debug\net10.0\lb17.AssemblyInfoInputs.cache
+D:\Archive\Studying\OOP\lb17\lb17\obj\Debug\net10.0\lb17.AssemblyInfo.cs
+D:\Archive\Studying\OOP\lb17\lb17\obj\Debug\net10.0\lb17.csproj.CoreCompileInputs.cache
+D:\Archive\Studying\OOP\lb17\lb17\obj\Debug\net10.0\lb17.dll
+D:\Archive\Studying\OOP\lb17\lb17\obj\Debug\net10.0\refint\lb17.dll
+D:\Archive\Studying\OOP\lb17\lb17\obj\Debug\net10.0\lb17.pdb
+D:\Archive\Studying\OOP\lb17\lb17\obj\Debug\net10.0\lb17.genruntimeconfig.cache
+D:\Archive\Studying\OOP\lb17\lb17\obj\Debug\net10.0\ref\lb17.dll
