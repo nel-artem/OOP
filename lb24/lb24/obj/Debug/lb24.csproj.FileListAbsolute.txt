@@ -1,0 +1,10 @@
+D:\Archive\Studying\OOP\lb24\lb24\bin\Debug\lb24.exe.config
+D:\Archive\Studying\OOP\lb24\lb24\bin\Debug\lb24.exe
+D:\Archive\Studying\OOP\lb24\lb24\bin\Debug\lb24.pdb
+D:\Archive\Studying\OOP\lb24\lb24\obj\Debug\lb24.csproj.AssemblyReference.cache
+D:\Archive\Studying\OOP\lb24\lb24\obj\Debug\lb24.Form1.resources
+D:\Archive\Studying\OOP\lb24\lb24\obj\Debug\lb24.Properties.Resources.resources
+D:\Archive\Studying\OOP\lb24\lb24\obj\Debug\lb24.csproj.GenerateResource.cache
+D:\Archive\Studying\OOP\lb24\lb24\obj\Debug\lb24.csproj.CoreCompileInputs.cache
+D:\Archive\Studying\OOP\lb24\lb24\obj\Debug\lb24.exe
+D:\Archive\Studying\OOP\lb24\lb24\obj\Debug\lb24.pdb
